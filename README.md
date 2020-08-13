@@ -1,1 +1,1 @@
-# ReadMeGenerator
+# goodReadmeGenerator
